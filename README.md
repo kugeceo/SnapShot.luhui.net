@@ -1,3 +1,31 @@
+# luhui SnapShot http://snapshot.luhui.net
+luhui SnapShot 是使用 React Hooks、Context API 和 React Router 创建的 Gallery。路由设置为四个默认页面和一个搜索页面。还使用 Flickr API 和 Axios 显示图像以获取数据。
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/017a2d4f-1a6b-40f2-9754-9ed4b80fab23/deploy-status)](https://app.netlify.com/sites/kuaizhao/deploys)
+
+Domains
+Use your own domain for your Netlify site for free
+
+Custom domains
+By default, your site is always accessible via a Netlify subdomain based on the site name. Custom domains allow you to access your site via one or more non-Netlify domain names.
+
+http://kuaizhao.netlify.app
+Default subdomain
+
+Options
+http://snapshot.luhui.net
+Primary domain
+
+Netlify DNS
+Options
+http://kz.luhui.net
+Domain alias
+
+Options
+http://kuaizhao.luhui.net
+Domain alias
+
 # Snap Shot [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=See%20this%20react%20example&url=https://yog9.github.io/SnapShot/&hashtags=react,context-api,freecodecamp,developers)
 
 [![Build Status](https://travis-ci.org/Yog9/SnapShot.svg?branch=master)](https://travis-ci.org/Yog9/SnapShot)
